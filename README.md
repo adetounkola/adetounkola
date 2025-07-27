@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on beginner-friendly DevOps or cloud-related open-source projects.
 - 🤔 I’m looking for help with real-world project experience and best practices in cloud engineering.
 - 💬 Ask me about my learning journey, DevOps tools I'm exploring, or anything cloud-related!
-- 📫 How to reach me: linkedin.com/in/mercyawodeji
+- 📫 How to reach me: linkedin.com/in/mercyawodeji or drop me a message here on GitHub!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love simplifying complex systems—and I’m a huge fan of visual diagrams for learning!
 
